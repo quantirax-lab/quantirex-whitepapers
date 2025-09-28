@@ -3,7 +3,7 @@
 **Vision and Scope for Industry Adoption**  
 **Draft White Paper – Internal Review Copy**  
 **Quantirax Lab**  
-**August 2025**
+**September 2025**
 
 ---
 
@@ -185,7 +185,7 @@ This roadmap ensures that each phase produces a fully usable deliverable while l
 
 ![Implementation Roadmap](images/ImplementationRoadmap.jpeg)
 
-*Figure 3: Implementation roadmap depicting the phased progression from ideation to deployment.
+Figure 3: Implementation roadmap depicting the phased progression from ideation to deployment.
 
 
 
@@ -266,5 +266,5 @@ This white paper includes on-page PNG renderings of two figures for A4 layout co
 - **Figure 2 — Signal Odyssey.**  
   Vector source: `figures/figure-02-signal-odyssey.svg`
 - **Figure 3 — Implementation Roadmap.**  
-  Vector source: `figures/figure-03-roadmap.svg`
+  Vector source: `figures/ImplementationRoadmap.jpeg`
 
