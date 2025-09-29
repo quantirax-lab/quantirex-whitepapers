@@ -109,7 +109,7 @@ The Cognitive Oversight Framework treats oversight as a continuous, adaptive dis
   src="https://raw.githubusercontent.com/quantirax-lab/quantirex-whitepapers/refs/heads/main/whitepapers/2025-industry/cof-vision-and-scope/images/figure-01-architectural-blueprint.svg" 
   alt="Figure 1: Architectural Blueprint of the Cognitive Oversight Framework" 
   width="10479" 
-  height="4173" 
+  height="8000" 
 />
 
 *Figure 1: End-to-end architectural blueprint of the Cognitive Oversight Framework—from On-Edge Semantic Telemetric Agents (edge semantics and context binding), through the Concord Reservoir (structured operational memory) and the Oversight Engine (evidence-driven reasoning), to the Temporal Spillway (stitched timelines), the Cognitive Gate (governed exposure), and the Observatory Deck (role-aligned presentation) ..*
