@@ -1,7 +1,6 @@
 # Cognitive Oversight Framework  
 **A Paradigm Shift in Monitoring and Observability**  
 **Vision and Scope for Industry Adoption**  
-**Draft White Paper – Internal Review Copy**  
 **Quantirax Lab**  
 **September 2025**
 
